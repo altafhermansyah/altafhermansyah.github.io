@@ -1,0 +1,20 @@
+.bg {
+    background-color: #f2EECB;
+}
+
+.box {
+    padding: 10px;
+    font-family: Calibri,sans-serif;
+}
+
+.photo {
+    border-style: double;
+}
+
+.list1 {
+    list-style-type: square;
+}
+
+.list2 {
+    list-style-type: circle;
+}
